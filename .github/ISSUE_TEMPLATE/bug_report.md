@@ -1,3 +1,8 @@
+---
+name: Bug Report
+
+---
+
 ### Bug Report
 
 #### Bug ID
