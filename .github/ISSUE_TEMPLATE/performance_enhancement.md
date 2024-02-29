@@ -8,8 +8,6 @@ assignees: ''
 ---
 ### Performance Enhancement Request
 
-#### Request ID
-
 #### Issue Title
 
 #### Description

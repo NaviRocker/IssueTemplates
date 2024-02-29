@@ -9,8 +9,6 @@ assignees: ''
 
 ### Feature Request
 
-#### Feature Request ID
-
 #### Issue Title
 
 #### Description

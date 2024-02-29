@@ -9,8 +9,6 @@ assignees: ''
 
 ### Bug Report
 
-#### Bug ID
-
 #### Issue Title
 
 #### Description

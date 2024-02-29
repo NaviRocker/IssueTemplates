@@ -9,8 +9,6 @@ assignees: ''
 
 ### Design Change Request
 
-#### Request ID
-
 #### Issue Title
 
 #### Description

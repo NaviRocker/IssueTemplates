@@ -8,8 +8,6 @@ assignees: ''
 ---
 ### Documentation Improvement Request
 
-#### Request ID
-
 #### Issue Title
 
 #### Description
