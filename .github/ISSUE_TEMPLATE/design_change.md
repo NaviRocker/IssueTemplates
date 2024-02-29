@@ -1,3 +1,11 @@
+---
+name: Design Change Request
+about: For proposing changes to the project's design
+title: "[DESIGN]"
+labels: 
+assignees: ''
+
+---
 
 ### Design Change Request
 

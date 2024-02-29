@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: For proposing new features or enhancements.
+about: For proposing new features or enhancements
 title: "[FEATURE REQUEST]"
 labels: enhancement
 assignees: ''

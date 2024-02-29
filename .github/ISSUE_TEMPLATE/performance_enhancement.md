@@ -1,4 +1,11 @@
+---
+name: Performance Enhancement Request
+about: For highlighting performance issues or optimizations.
+title: "[PERFORMANCE]"
+labels: 
+assignees: ''
 
+---
 ### Performance Enhancement Request
 
 #### Request ID
