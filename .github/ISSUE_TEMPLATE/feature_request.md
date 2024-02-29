@@ -1,3 +1,7 @@
+---
+name: Feature Request
+
+---
 ### Feature Request
 
 #### Feature Request ID
