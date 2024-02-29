@@ -1,5 +1,9 @@
 ---
 name: Bug Report
+about: For reporting bugs encountered in the project
+title: "[BUG]"
+labels: bug
+assignees: ''
 
 ---
 
@@ -26,4 +30,3 @@ name: Bug Report
 #### Possible Solution
 
 #### Related Issues
-
